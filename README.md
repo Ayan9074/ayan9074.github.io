@@ -1,6 +1,6 @@
 # Ayan Shariff — personal website
 
-Static portfolio for https://ayan9074.github.io.
+Basketball-themed static portfolio for https://ayan9074.github.io.
 
 ## Publish
 
@@ -12,4 +12,4 @@ The website is public once GitHub Pages publishes it. No build tools or ChatGPT 
 
 ## Edit
 
-Edit `index.html` for content, `styles.css` for appearance, and `app.js` for the runner animation. The runner illustration is in `assets/`.
+Edit `index.html` for content, `styles.css` for appearance, and `app.js` for the interactive basketball court. The court and basketball are scalable SVG elements in `index.html`.
